@@ -3,7 +3,7 @@
 # Who are we?
 We are RusherVace.NET! A Minecraft Bedrock Edition server that specialises in mini-games.
 
-# Was tun wir?
+# What do we do?
 The biggest task of the RusherVace.NET team is to support the players, to make their wishes come true and to offer them a fantastic gaming experience.
 If there are any problems, you can easily report them and we will try to help as soon as possible.
 
